@@ -1,3 +1,3 @@
 # braincarp
 
-A Brainfuck interpreter written in Carp.
+A Brainf_ck interpreter written in Carp.
